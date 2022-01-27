@@ -3,7 +3,7 @@
 </div>
 <br>
 
-# Note:
+# Note
 I've moved this project onto my own domain check it out [here.](http://crunnie.xyz/builds/ "Crunnie's FNBuilds")
 
 # Other
